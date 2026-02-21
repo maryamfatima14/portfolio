@@ -1,0 +1,3 @@
+# Vercel Configuration
+node-version=20
+pnpm-version=9
