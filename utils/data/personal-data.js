@@ -7,5 +7,5 @@ export const personalData = {
   phone: '+923290032418',
   address: 'Jannat Colony Vehari',
   github: 'https://github.com/maryamfatima14/MaryamFatima-68',
-  resume: "https://drive.google.com/file/d/1YWZyZkQWhH50LkvgyT7Gj5uOAtfvKVUp/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1G8wu5SlLUNGHGENRiiPfnP_qGI3Kjn0z/view?usp=sharing"
 }
