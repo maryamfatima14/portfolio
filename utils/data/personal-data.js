@@ -1,6 +1,6 @@
 export const personalData = {
   name: "MARYAM FATIMA",
-  profile: '/ABOUT.jpg',
+  profile: '/New.jpeg',
   designation: "Web Application Developer",
   description: "My name is MARYAM FATIMA. I am a passionate Web Developer with hands-on experience in full-stack development using the MERN stack. I specialize in building responsive, user-friendly web applications and have basic experience in mobile app development with Flutter. I am eager to learn, grow, and contribute to real-world projects.",
   email: 'maryamfatima8814@gmail.com',
